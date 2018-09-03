@@ -1,4 +1,4 @@
-# I am testing this code
+# I am testing this code for my model
 fit.gompertz <- function(data, time){
   d <- data.frame(y=data, t=time)
   
