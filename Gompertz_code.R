@@ -1,4 +1,4 @@
-# starting model
+# I am testing this code
 fit.gompertz <- function(data, time){
   d <- data.frame(y=data, t=time)
   
